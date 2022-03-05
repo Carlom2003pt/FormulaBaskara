@@ -1,0 +1,24 @@
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.exe
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.deps.json
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.runtimeconfig.json
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.runtimeconfig.dev.json
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.dll
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.pdb
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.AssemblyInfoInputs.cache
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.AssemblyInfo.cs
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.dll
+C:\Users\Samsung\source\repos\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.pdb
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.exe
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.deps.json
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.runtimeconfig.json
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.runtimeconfig.dev.json
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.dll
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\bin\Debug\netcoreapp3.1\Fórmula de Baskara.pdb
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.csproj.AssemblyReference.cache
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.AssemblyInfoInputs.cache
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.AssemblyInfo.cs
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.dll
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.pdb
+C:\Users\Carlos Marques\source\Antiga\Fórmula de Baskara\Fórmula de Baskara\obj\Debug\netcoreapp3.1\Fórmula de Baskara.genruntimeconfig.cache

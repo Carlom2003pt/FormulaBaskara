@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "krvSa+e7ojp8jJGOKPB6x1xzdHg56HHrklNnndHNt6mVnMVkkF6XKmMZJg7bPcIhkCC9A9Fys5Z37wcXWtLtYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos Marques\\source\\Antiga\\Fórmula de Baskara\\Fórmula de Baskara\\Fórmula de Baskara.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Marques\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.18\\microsoft.netcore.app.host.win-x86.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
